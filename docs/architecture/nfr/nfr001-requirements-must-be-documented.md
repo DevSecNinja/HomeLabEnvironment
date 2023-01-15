@@ -1,4 +1,4 @@
-# #NFR001 - Requirements must be documented 📝
+# #NFR001-requirements-must-be-documented
 
 ## Purpose
 

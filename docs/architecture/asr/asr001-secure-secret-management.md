@@ -1,4 +1,4 @@
-# #ASR001 - Secure Secret Management 🔒
+# #ASR001-secure-secret-management
 
 ## Purpose
 
