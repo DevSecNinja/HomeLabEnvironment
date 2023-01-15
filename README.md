@@ -33,11 +33,11 @@ This project is licensed under the MIT License. It is not affiliated with my emp
 
 Feel free to use and modify the code as you see fit 🎉
 
-## 📚 References 
+## 📚 References
 
 Thank you to the following creators for their inspiration. Their work has been invaluable in shaping the design and development of this project.
 
-| Reference | Description | Author | Note | 
+| Reference | Description | Author | Note |
 |  -------- | ----------- | ------ | ---- |
 | #REF001   | [Home Assistant](https://github.com/home-assistant)  |  Home Assistant Community  | Both the Home Assistant project, but especially their approach to documenting design decisions |
 | #REF002   | [Techno Tim - YouTube](https://www.youtube.com/c/technotimlive) | Techno Tim | Tim's content on YouTube helped me tremendously setting up my home lab |
@@ -45,5 +45,5 @@ Thank you to the following creators for their inspiration. Their work has been i
 | #REF004   | [GitHub - alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) | Alastair Mooney | Converts `TODO` comments to GitHub issues automatically by GitHub Actions
 | #REF005   |  [GitHub - github/super-linter](https://github.com/github/super-linter) | GitHub Community | GitHub Action that for linting my code and docs |
 | #REF006   | [terraform-docs](https://terraform-docs.io/) | terraform-docs Authors | Automatically generates documentation for my GitHub code |
-| #REF007   |  [ChatGPT (openai.com)](https://chat.openai.com/chat) | OpenAI | ChatGPT saves a lot of time by writing documentation or code snippets | 
-| #REF008   | [Obsidian](https://obsidian.md/) | Obsidian | Useful program to write documentation in markdown |
+| #REF007   |  [ChatGPT (openai.com)](https://chat.openai.com/chat) | OpenAI | ChatGPT saves a lot of time by writing documentation or code snippets |
+| #REF008   | [Obsidian](https://obsidian.md/) | Obsidian | Useful program to write documentation in Markdown |

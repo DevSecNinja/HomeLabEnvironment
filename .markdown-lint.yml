@@ -1,0 +1,8 @@
+## Schema: https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/.markdownlint.yaml
+
+# Default state for all rules
+default: true
+
+# MD018/no-missing-space-atx - No space after hash on atx style heading
+# NOTE: Disabled as Obsidian uses '#Tag' for tagging
+MD018: false

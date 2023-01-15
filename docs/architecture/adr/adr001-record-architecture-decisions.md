@@ -29,7 +29,7 @@ Introduces an additional burden on project maintainers and developers to define 
 
 ## Related requirements
 
-#NFR001 
+#NFR001
 
 <!--
 ## Related principles
