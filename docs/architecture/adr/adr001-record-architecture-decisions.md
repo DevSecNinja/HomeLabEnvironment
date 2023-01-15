@@ -1,4 +1,4 @@
-# #ADR001 - Record architecture decisions 🗒️
+# #ADR001-record-architecture-decisions
 
 ## Date
 
@@ -14,7 +14,7 @@ We need to record requirements and architectural decisions made on this project.
 
 ## Decision
 
-We will use Architecture Decision Records, as described by #REF003. Additionally,
+We will use Architecture Decision Records, as described by #REF003-nygard. Additionally,
 we will maintain Architecturally Significant Requirements and Non-Functional Requirements.
 
 ## Consequences
@@ -31,7 +31,7 @@ requirements and diligently follow architecture discussions.
 
 ## Related requirements
 
-#NFR001
+#ASR001-requirements-must-be-documented
 
 <!--
 ## Related principles
