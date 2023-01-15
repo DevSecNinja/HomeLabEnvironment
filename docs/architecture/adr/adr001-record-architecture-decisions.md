@@ -31,7 +31,7 @@ requirements and diligently follow architecture discussions.
 
 ## Related requirements
 
-#NFR001-requirements-must-be-documented
+#ASR001-requirements-must-be-documented
 
 <!--
 ## Related principles

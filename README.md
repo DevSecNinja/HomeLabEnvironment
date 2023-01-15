@@ -49,11 +49,11 @@ invaluable in shaping the design and development of this project.
 
 | Reference | Description | Author | Note |
 |  -------- | ----------- | ------ | ---- |
-| #REF001-home-assistant   | [Home Assistant](https://github.com/home-assistant) |  Home Assistant Community  | Both the Home Assistant project, but especially their approach to documenting design decisions |
-| #REF002-techno-tim   | [Techno Tim - YouTube](https://www.youtube.com/c/technotimlive) | Techno Tim | Tim's content on YouTube helped me tremendously setting up my home lab |
-| #REF003-nygard   | [Documenting Architecture Decisions (cognitect.com)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) | Michael Nygard | Describes how to document design designing for Agile projects |
-| #REF004-mooney   | [GitHub - alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) | Alastair Mooney | Converts `TODO` comments to GitHub issues automatically by GitHub Actions
-| #REF005-gh-linter   | [GitHub - github/super-linter](https://github.com/github/super-linter) | GitHub Community | GitHub Action that for linting my code and docs |
-| #REF006-tfdocs   | [terraform-docs](https://terraform-docs.io/) | terraform-docs Authors | Automatically generates documentation for my GitHub code |
-| #REF007-chatgpt   | [ChatGPT (openai.com)](https://chat.openai.com/chat) | OpenAI | ChatGPT saves a lot of time by writing documentation or code snippets |
-| #REF008-obsidian   | [Obsidian](https://obsidian.md/) | Obsidian | Useful program to write documentation in Markdown |
+| #REF001-home-assistant | [Home Assistant](https://github.com/home-assistant) |  Home Assistant Community  | Both the Home Assistant project, but especially their approach to documenting design decisions |
+| #REF002-techno-tim | [Techno Tim - YouTube](https://www.youtube.com/c/technotimlive) | Techno Tim | Tim's content on YouTube helped me tremendously setting up my home lab |
+| #REF003-nygard | [Documenting Architecture Decisions (cognitect.com)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) | Michael Nygard | Describes how to document design designing for Agile projects |
+| #REF004-mooney | [GitHub - alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) | Alastair Mooney | Converts `TODO` comments to GitHub issues automatically by GitHub Actions
+| #REF005-gh-linter | [GitHub - github/super-linter](https://github.com/github/super-linter) | GitHub Community | GitHub Action that for linting my code and docs |
+| #REF006-tfdocs | [terraform-docs](https://terraform-docs.io/) | terraform-docs Authors | Automatically generates documentation for my GitHub code |
+| #REF007-chatgpt | [ChatGPT (openai.com)](https://chat.openai.com/chat) | OpenAI | ChatGPT saves a lot of time by writing documentation or code snippets |
+| #REF008-obsidian | [Obsidian](https://obsidian.md/) | Obsidian | Useful program to write documentation in Markdown |
