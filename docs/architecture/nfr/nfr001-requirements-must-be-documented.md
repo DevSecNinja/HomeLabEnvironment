@@ -2,7 +2,9 @@
 
 ## Purpose
 
-The purpose of this non-functional requirement is to ensure that the project and requirements are well-documented and easy to understand for future maintenance and updates.
+The purpose of this non-functional requirement is to ensure that the project and
+requirements are well-documented and easy to understand for future maintenance and
+updates.
 
 ## Description
 

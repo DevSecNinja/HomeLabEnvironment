@@ -54,3 +54,5 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: .
+          # VS Code extension markdownlint doesn't support the default name
+          MARKDOWN_CONFIG_FILE: .markdownlint.yml
