@@ -1,4 +1,4 @@
-# #ASR114-kubernetes-devops-management
+# ASR114-kubernetes-devops-management
 
 ## Purpose
 

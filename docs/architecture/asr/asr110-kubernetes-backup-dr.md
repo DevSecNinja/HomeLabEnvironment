@@ -1,4 +1,4 @@
-# #ASR110-kubernetes-backup-dr
+# ASR110-kubernetes-backup-dr
 
 ## Purpose
 

@@ -1,4 +1,4 @@
-# #ASR113-kubernetes-cost-optimization
+# ASR113-kubernetes-cost-optimization
 
 ## Purpose
 

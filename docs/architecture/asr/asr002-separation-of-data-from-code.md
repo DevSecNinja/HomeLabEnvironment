@@ -1,4 +1,4 @@
-# #ASR002-separation-of-data-from-code
+# ASR002-separation-of-data-from-code
 
 ## Purpose
 

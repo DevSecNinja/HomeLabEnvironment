@@ -1,4 +1,4 @@
-# #ASR115-kubernetes-network-segmentation
+# ASR115-kubernetes-network-segmentation
 
 ## Purpose
 
