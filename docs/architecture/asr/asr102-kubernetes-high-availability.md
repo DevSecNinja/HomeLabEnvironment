@@ -1,4 +1,4 @@
-# #ASR102-kubernetes-high-availability
+# ASR102-kubernetes-high-availability
 
 ## Purpose
 

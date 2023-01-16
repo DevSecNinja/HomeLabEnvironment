@@ -3,7 +3,7 @@
 This repository contains the documentation and code that I use to deploy my Home
 Lab environment with Terraform, Ansible, Kubernetes and Helm.
 
-> ⚠️  Note that this repository is under development and some of the
+> ⚠️ Note that this repository is under development and some of the
 functionalities mentioned might not have been released yet.
 
 ## 📌 Features
@@ -17,15 +17,27 @@ One of my goals is to make the code as modular as possible so that users can
 easily adopt pieces of my code without having to implement all of the technologies
 that I'm using.
 
-Documentation is written with Obsidian #REF008-obsidian  which allows me to use features
+Documentation is written with Obsidian #REF008-obsidian which allows me to use features
 like tags to link non-functional requirements to architecture decisions.
 
 ## 📄 Architecture
 
-Inspired by #REF003-nygard  and #REF001-home-assistant , I document requirements
-and design decisions in the `/docs/architecture` folder in separate files.
+Inspired by #REF003-nygard  and #REF001-home-assistant, I document requirements
+and design decisions in the `/docs/architecture` folder in separate files. Below
+you will find the architecture diagram of the environment.
 
-<!-- TODO: Add architecture diagram and context -->
+![HomeEnvironment Architecture Diagram](/docs/architecture/diagram/HomeEnvironment.drawio.svg)
+
+## 📱 Applications
+
+The Kubernetes environment will host the following applications:
+
+<!-- markdownlint-disable line-length -->
+| Application Name | Purpose | Maintainer | Network Access | Storage |
+| ---------------- | ------- | ---------- | -------------- | ------- |
+| AdGuard | DNS Server with ad-blocking capabilities | AdGuard Team | Private | iSCSI |
+| UniFi Controller | Controller for Ubiquiti hardware | Ubiquiti & LinuxServer.io | Private | iSCSI |
+<!-- markdownlint-enable line-length -->
 
 ## 🤝 Contributions
 

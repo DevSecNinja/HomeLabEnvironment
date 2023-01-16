@@ -1,4 +1,4 @@
-# #ASR108-kubernetes-secrets
+# ASR108-kubernetes-secrets
 
 ## Purpose
 

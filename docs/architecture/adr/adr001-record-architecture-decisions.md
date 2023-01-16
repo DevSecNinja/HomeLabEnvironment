@@ -1,4 +1,4 @@
-# #ADR001-record-architecture-decisions
+# ADR001-record-architecture-decisions
 
 ## Date
 
@@ -31,7 +31,7 @@ requirements and diligently follow architecture discussions.
 
 ## Related requirements
 
-#ASR001-requirements-must-be-documented
+[[asr001-requirements-must-be-documented]]
 
 <!--
 ## Related principles

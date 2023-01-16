@@ -1,4 +1,4 @@
-# #ASR109-kubernetes-role-based-access
+# ASR109-kubernetes-role-based-access
 
 ## Purpose
 

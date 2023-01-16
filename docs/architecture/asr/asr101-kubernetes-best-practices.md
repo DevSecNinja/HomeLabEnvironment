@@ -1,4 +1,4 @@
-# #ASR101-kubernetes-best-practices
+# ASR101-kubernetes-best-practices
 
 ## Purpose
 

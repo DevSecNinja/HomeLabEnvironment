@@ -90,8 +90,7 @@ MD013:
 MD014: true
 
 # MD018/no-missing-space-atx - No space after hash on atx style heading
-# NOTE: Disabled as Obsidian uses '#Tag' for tagging
-MD018: false
+MD018: true
 
 # MD019/no-multiple-space-atx - Multiple spaces after hash on atx style heading
 MD019: true
@@ -206,7 +205,7 @@ MD041:
 MD042: true
 
 # MD043/required-headings/required-headers - Required heading structure
-# NOTE: Disabled as Obsidian uses '#Tag' for tagging
+# NOTE: Disabled as I don't have standard header names
 MD043: false
 # MD043:
 #   # List of headings
