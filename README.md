@@ -23,9 +23,21 @@ like tags to link non-functional requirements to architecture decisions.
 ## 📄 Architecture
 
 Inspired by #REF003-nygard  and #REF001-home-assistant, I document requirements
-and design decisions in the `/docs/architecture` folder in separate files.
+and design decisions in the `/docs/architecture` folder in separate files. Below
+you will find the architecture diagram of the environment.
 
-<!-- TODO: Add architecture diagram and context -->
+![HomeEnvironment Architecture Diagram](HomeEnvironment.drawio.svg)
+
+## 📱 Applications
+
+The Kubernetes environment will host the following applications:
+
+<!-- markdownlint-disable line-length -->
+| Application Name | Purpose | Maintainer | Network Access | Storage |
+| ---------------- | ------- | ---------- | -------------- | ------- |
+| AdGuard | DNS Server with ad-blocking capabilities | AdGuard Team | Private | iSCSI |
+| UniFi Controller | Controller for Ubiquiti hardware | Ubiquiti & LinuxServer.io | Private | iSCSI |
+<!-- markdownlint-enable line-length -->
 
 ## 🤝 Contributions
 
