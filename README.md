@@ -26,7 +26,7 @@ Inspired by #REF003-nygard  and #REF001-home-assistant, I document requirements
 and design decisions in the `/docs/architecture` folder in separate files. Below
 you will find the architecture diagram of the environment.
 
-![HomeEnvironment Architecture Diagram](HomeEnvironment.drawio.svg)
+![HomeEnvironment Architecture Diagram](/docs/architecture/diagram/HomeEnvironment.drawio.svg)
 
 ## 📱 Applications
 
